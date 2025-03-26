@@ -46,7 +46,10 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JS"/> 
   </a>
-
+  
+  <a href="https://solana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff" alt="SOL"/> 
+  </a>
   
    <a href="https://www.tensorflow.org/" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -60,13 +63,17 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   </a>
   
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
   </a>
   
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
+  </a>
+  
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -81,13 +88,9 @@
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> 
   </a>
   
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-  </a>
+  
 
-  <a href="https://solana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff" alt="SOL"/> 
-  </a>
+
   
   
 </p>

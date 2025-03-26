@@ -7,7 +7,7 @@
   <a href="mailto:kashyapsohum07@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="www.linkedin.com/in/sohumkashyap" target="_blank">
+   <a href="https://www.linkedin.com/in/sohumkashyap/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
   
@@ -68,13 +68,13 @@
 
 <a href="https://github.com/S-K-23/CaLOWrie.git">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=CaLOWrie&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=CaLOWrie&theme=tokyonight" />
 
 </a>  
 
 <a href="https://github.com/S-K-23/sinGAN.git">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=waveGAN&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=waveGAN&theme=tokyonight" />
 
 </a> 
 

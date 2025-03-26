@@ -22,39 +22,34 @@
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
+	
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
-  </a>
+  </a>	
   
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS"/> 
-  </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JS"/> 
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://www.swift.org/" target="_blank">
     <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/> 
   </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> 
   </a>
-   <a href="" target="_blank">
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS"/> 
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JS"/> 
+  </a>
+
+  
+   <a href="https://www.tensorflow.org/" target="_blank">
     <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
-
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a>
-
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
 
    <a href="https://numpy.org/" target="_blank">
@@ -63,10 +58,6 @@
 
    <a href="https://pandas.pydata.org/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
   
    <a href="https://jupyter.org/" target="_blank">
@@ -82,21 +73,19 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://www.vim.org/" target="_blank">
     <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/> 
   </a>
   
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> 
   </a>
   
-
-
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
   </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://solana.com/" target="_blank">
     <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=fff" alt="SOL"/> 
   </a>
   

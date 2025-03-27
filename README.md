@@ -109,6 +109,12 @@
 
 </a> 
 
+<a href="https://github.com/S-K-23/MeanVarianceOptim">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=MeanVarianceOptim&theme=tokyonight" />
+
+</a> 
+
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 

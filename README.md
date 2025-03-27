@@ -125,7 +125,7 @@
   <p align="center">
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="S-K-23" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=prussian" alt="S-K-23" height="192px"/>
   <br/>
   </p>
 </details>

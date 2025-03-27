@@ -127,7 +127,6 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=prussian" alt="S-K-23" height="192px"/>
   <br/>
-	  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-K-23&hide=contribs,prs)
   </p>
 </details>
 

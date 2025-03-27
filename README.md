@@ -99,19 +99,19 @@
 
 <a href="https://github.com/S-K-23/CaLOWrie.git">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=CaLOWrie&theme=shadow-blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=CaLOWrie&theme=shadow_blue" />
 
 </a>  
 
 <a href="https://github.com/S-K-23/sinGAN.git">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=sinGAN&theme=shadow-blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=sinGAN&theme=shadow_blue" />
 
 </a> 
 
 <a href="https://github.com/S-K-23/MeanVarianceOptim">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=MeanVarianceOptim&theme=shadow-blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=MeanVarianceOptim&theme=shadow_blue" />
 
 </a> 
 

@@ -14,7 +14,7 @@
   </p>
 
 
-<p >I am a developer working on a wide range of artificial intelligence research and applications, currently working on bioinformatics research with the Kihara Lab at Purdue University. I have worked on transformer-based AI model research @ Argonne National Laboratory and the University of Pennsylvania. I like to do coding projects in my free time using Swift, Python, Java, and C#.
+<p >I am a developer working on a wide range of artificial intelligence research and applications. I am currently working on bioinformatics research with the Kihara Lab at Purdue University. I have worked on transformer-based AI model research @ Argonne National Laboratory and the University of Pennsylvania. I like to do coding projects in my free time using Swift, Python, Java, and C#.
 </p>
 
 

@@ -120,22 +120,6 @@
 </a> 
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=prussian" alt="S-K-23" height="192px"/>
-  <br/>
-	  <img src="https://github-readme-stats.vercel.app/api?username=S-K-23&hide=stars,contribs,prs&theme=prussian" alt="S-K-23" height="192px"/>
-  </p>
-	
-</details>
-
 
 
 

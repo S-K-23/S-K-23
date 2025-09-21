@@ -96,6 +96,12 @@
 </p>
 
 ## Projects
+<a href="https://github.com/S-K-23/REALestate.ai">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=REALestate.ai&theme=prussian" />
+
+</a> 
+
 <a href="https://github.com/S-K-23/ReciptScannerOCR.git">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=S-K-23&repo=ReciptScannerOCR&theme=prussian" />

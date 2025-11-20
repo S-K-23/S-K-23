@@ -11,7 +11,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
 	<a href="http://www.sohumkashyap.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-blue?style=for-the-badge">
+    <img alt="Website" src="https://img.shields.io/badge/Website-white?style=for-the-badge">
   </a>
   
   </p>
